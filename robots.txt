@@ -28,4 +28,5 @@ Disallow:/
 User-agent:meta-externalagent
 Disallow:/
 
-Sitemap: https://playy99exch.live/
+Sitemap: https://playy99exch.live/sitemap.xml
+Sitemap: https://playy99exch.live/images_sitemap.xml
